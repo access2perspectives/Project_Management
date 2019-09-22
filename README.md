@@ -15,3 +15,13 @@ Scientists often run three or more highly complex projects in parallel. On top o
 - Collaborative Reading, Writing and Peer Review
 - Commercial versus Open Source Tools
 - Legal Aspects: Intellectual Property, Data Security and Privacy
+
+
+
+## planning phase with a design thinking approach
+
+- “Mash-up innovation” & “Rapid prototyping”:
+• https://toolbox.hyperisland.com/mash-up-innovation
+• https://toolbox.hyperisland.com/90-minute-prototypes
+
+Design sprint method: https://www.gv.com/sprint/
