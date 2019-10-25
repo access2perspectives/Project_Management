@@ -25,3 +25,7 @@ Scientists often run three or more highly complex projects in parallel. On top o
 • https://toolbox.hyperisland.com/90-minute-prototypes
 
 Design sprint method: https://www.gv.com/sprint/
+
+
+## Methodology
+- https://www.zbw-mediatalk.eu/2019/10/guidelines-electronic-lab-notebooks-in-research-data-management/
